@@ -1,0 +1,6 @@
+{
+  "server": “smile1.online”,
+  "server_port": 47958,
+  "password": "example",
+  "method": "chacha20-ietf-poly1305"
+}
